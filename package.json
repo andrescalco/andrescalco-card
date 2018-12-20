@@ -1,5 +1,5 @@
 {
-	"name": "andrescalco-card",
+	"name": "andrescalco",
 	"version": "1.0.0",
 	"description": "Hello, my name is Andre Scalco and I am a developer and this is my npx card",
 	"main": "./bin/card.js",
