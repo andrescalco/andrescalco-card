@@ -1,0 +1,30 @@
+{
+	"name": "andrescalco-card",
+	"version": "1.0.0",
+	"description": "Hello, my name is Andre Scalco and I am a developer and this is my npx card",
+	"main": "./bin/card.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"andrescalco": "./bin/card.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/andrescalco/andrescalco-card.git"
+	},
+	"keywords": [
+		"Andre",
+		"Scalco"
+	],
+	"author": "Andre Scalco <andre@andrescalco.com> (http://andrescalco.com)",
+	"license": "MIT",
+	"dependencies": {
+		"boxen": "^2.1.0",
+		"chalk": "^2.4.1"
+	},
+	"bugs": {
+		"url": "https://github.com/andrescalco/andrescalco-card/issues"
+	},
+	"homepage": "https://github.com/andrescalco/andrescalco-card#readme"
+}
