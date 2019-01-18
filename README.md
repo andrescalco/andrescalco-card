@@ -3,7 +3,7 @@ Hello, my name is Andre Scalco and I am a developer
 # Usage
 Via npx:
 ```
-npx andrescalco
+npx -q andrescalco
 ```
 
 ## Credit
