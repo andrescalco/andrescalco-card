@@ -4,7 +4,8 @@
 	"description": "Hello, my name is Andre Scalco and I am a developer and this is my npx card",
 	"main": "./bin/card.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"bump": "npm version patch -m \"Upgrade to %s for reasons\""
 	},
 	"bin": {
 		"andrescalco": "./bin/card.js"
