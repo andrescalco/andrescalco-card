@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Hello, my name is Andre Scalco'),
   handle: chalk.cyan('I am a Front-End/React Developer'),
-  work: chalk.white('Front-End Developer at Pixelwolf'),
+  work: chalk.white('React Native Developer at SkipTheDishes'),
   twitter: chalk.cyan('https://twitter.com/andre_scalco'),
   github: chalk.cyan('https://github.com/andrescalco/'),
   linkedin: chalk.cyan('https://www.linkedin.com/in/andre-scalco'),
